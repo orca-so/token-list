@@ -9628,6 +9628,24 @@
     },
     {
       "chainId": 101,
+      "address": "",
+      "symbol": "KIN/SOL[aquafarm]",
+      "name": "Orca KIN/SOL Aquafarm LP Token",
+      "decimals": 6,
+      "logoURI": "",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://www.orca.so",
+        "twitter": "https://twitter.com/orca_so",
+        "telegram": "https://t.me/orca_so",
+        "medium": "http://orca-so.medium.com",
+        "discord": "https://discord.com/invite/nSwGWn5KSG"
+      }
+    },
+    {
+      "chainId": 101,
       "address": "99pfC8fWymXgbq3CvrExhx3UxQDC1fMWEWLbNT83F45e",
       "symbol": "MAPS/SOL[aquafarm]",
       "name": "Orca MAPS/SOL Aquafarm LP Token",
@@ -9739,6 +9757,24 @@
       "address": "ADrvfPBsRcJfGsN6Bs385zYddH52nuM5FA8UaAkX9o2V",
       "symbol": "ROPE/SOL[aquafarm]",
       "name": "Orca ROPE/SOL Aquafarm LP Token",
+      "decimals": 6,
+      "logoURI": "",
+      "tags": [
+        "lp-token"
+      ],
+      "extensions": {
+        "website": "https://www.orca.so",
+        "twitter": "https://twitter.com/orca_so",
+        "telegram": "https://t.me/orca_so",
+        "medium": "http://orca-so.medium.com",
+        "discord": "https://discord.com/invite/nSwGWn5KSG"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "",
+      "symbol": "SAMO/SOL[aquafarm]",
+      "name": "Orca SAMO/SOL Aquafarm LP Token",
       "decimals": 6,
       "logoURI": "",
       "tags": [
