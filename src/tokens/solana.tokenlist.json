@@ -9522,9 +9522,9 @@
       "chainId": 101,
       "address": "GxmjQZvgwNCh3QSRNB8CPED81hzySem62PDDuMp4B379",
       "symbol": "BTC/SOL[aquafarm]",
-      "name": "Orca BTC/SOL Aquafarm LP Token",
+      "name": "Orca BTC/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GxmjQZvgwNCh3QSRNB8CPED81hzySem62PDDuMp4B379/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9540,9 +9540,9 @@
       "chainId": 101,
       "address": "7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa",
       "symbol": "COPE/SOL[aquafarm]",
-      "name": "Orca COPE/SOL Aquafarm LP Token",
+      "name": "Orca COPE/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7CT19h7n2YBKiCFCaxXqMM79jNM4cmUvjXhNMjJNRYa/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9558,9 +9558,9 @@
       "chainId": 101,
       "address": "CGFTRh4jKLPbS9r4hZtbDfaRuC7qcA8rZpbLnVTzJBer",
       "symbol": "ETH/SOL[aquafarm]",
-      "name": "Orca ETH/SOL Aquafarm LP Token",
+      "name": "Orca ETH/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CGFTRh4jKLPbS9r4hZtbDfaRuC7qcA8rZpbLnVTzJBer/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9576,9 +9576,9 @@
       "chainId": 101,
       "address": "HDP2AYFmvLz6sWpoSuNS62JjvW4HjMKp7doXucqpWN56",
       "symbol": "ETH/USDC[aquafarm]",
-      "name": "Orca ETH/USDC Aquafarm LP Token",
+      "name": "Orca ETH/USDC Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HDP2AYFmvLz6sWpoSuNS62JjvW4HjMKp7doXucqpWN56/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9594,9 +9594,9 @@
       "chainId": 101,
       "address": "4geGcEfgVjzJGZAaT8iTicPm1XLDPjdSpVhtA99sZ7jX",
       "symbol": "FIDA/SOL[aquafarm]",
-      "name": "Orca FIDA/SOL Aquafarm LP Token",
+      "name": "Orca FIDA/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4geGcEfgVjzJGZAaT8iTicPm1XLDPjdSpVhtA99sZ7jX/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9612,9 +9612,9 @@
       "chainId": 101,
       "address": "9r9BcPwCon96P5Y6JSdRAog7Uknz9p9GrnuHm4VzuB9k",
       "symbol": "FTT/SOL[aquafarm]",
-      "name": "Orca FTT/SOL Aquafarm LP Token",
+      "name": "Orca FTT/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/9r9BcPwCon96P5Y6JSdRAog7Uknz9p9GrnuHm4VzuB9k/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9628,11 +9628,11 @@
     },
     {
       "chainId": 101,
-      "address": "",
+      "address": "7Ho3ht7krdFELBcPAsGXFfQMyG4PUvYSfpz4aNBRP3Ek",
       "symbol": "KIN/SOL[aquafarm]",
-      "name": "Orca KIN/SOL Aquafarm LP Token",
+      "name": "Orca KIN/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Ho3ht7krdFELBcPAsGXFfQMyG4PUvYSfpz4aNBRP3Ek/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9648,9 +9648,9 @@
       "chainId": 101,
       "address": "7Dy84zJNHzEM9335BrtFjCuunt2VgxJ7KBT6PJarxKMq",
       "symbol": "MAPS/SOL[aquafarm]",
-      "name": "Orca MAPS/SOL Aquafarm LP Token",
+      "name": "Orca MAPS/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Dy84zJNHzEM9335BrtFjCuunt2VgxJ7KBT6PJarxKMq/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9666,9 +9666,9 @@
       "chainId": 101,
       "address": "CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH",
       "symbol": "MER/SOL[aquafarm]",
-      "name": "Orca MER/SOL Aquafarm LP Token",
+      "name": "Orca MER/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CrKVRnH6iGbFXxEnXMn3Emwv3Fe7VwxEqpA8zNbwsgkH/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9684,9 +9684,9 @@
       "chainId": 101,
       "address": "B5waaKnsmtqFawPspUwcuy1cRjAC7u2LrHSwxPSxK4sZ",
       "symbol": "ORCA/SOL[aquafarm]",
-      "name": "Orca ORCA/SOL Aquafarm LP Token",
+      "name": "Orca ORCA/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/B5waaKnsmtqFawPspUwcuy1cRjAC7u2LrHSwxPSxK4sZ/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9702,9 +9702,9 @@
       "chainId": 101,
       "address": "Gc7W5U66iuHQcC1cQyeX9hxkPF2QUVJPTf1NWbW8fNrt",
       "symbol": "ORCA/USDC[aquafarm]",
-      "name": "Orca ORCA/USDC Aquafarm LP Token",
+      "name": "Orca ORCA/USDC Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Gc7W5U66iuHQcC1cQyeX9hxkPF2QUVJPTf1NWbW8fNrt/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9720,9 +9720,9 @@
       "chainId": 101,
       "address": "G48RkwsNYd3A4rBfuQhCswr9YUE63fFmZGyhgH95dq3S",
       "symbol": "OXY/SOL[aquafarm]",
-      "name": "Orca OXY/SOL Aquafarm LP Token",
+      "name": "Orca OXY/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/G48RkwsNYd3A4rBfuQhCswr9YUE63fFmZGyhgH95dq3S/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9738,9 +9738,9 @@
       "chainId": 101,
       "address": "AUkn5f4N4TqPA5BiWirTDHWnG3SePfmeDpDqrFmhSgKb",
       "symbol": "RAY/SOL[aquafarm]",
-      "name": "Orca RAY/SOL Aquafarm LP Token",
+      "name": "Orca RAY/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AUkn5f4N4TqPA5BiWirTDHWnG3SePfmeDpDqrFmhSgKb/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9756,9 +9756,9 @@
       "chainId": 101,
       "address": "xpPyQwQ1HXHyEpvFGyTQRLY6rmj6jtAdEgLMV5uoz4m",
       "symbol": "ROPE/SOL[aquafarm]",
-      "name": "Orca ROPE/SOL Aquafarm LP Token",
+      "name": "Orca ROPE/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/xpPyQwQ1HXHyEpvFGyTQRLY6rmj6jtAdEgLMV5uoz4m/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9772,11 +9772,11 @@
     },
     {
       "chainId": 101,
-      "address": "",
+      "address": "CNf8gZtLahBWxKe3YwsqywLHMTewGqvq6pJ5ecg3cTYU",
       "symbol": "SAMO/SOL[aquafarm]",
-      "name": "Orca SAMO/SOL Aquafarm LP Token",
+      "name": "Orca SAMO/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CNf8gZtLahBWxKe3YwsqywLHMTewGqvq6pJ5ecg3cTYU/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9792,9 +9792,9 @@
       "chainId": 101,
       "address": "FFdjrSvNALfdgxANNpt3x85WpeVMdQSH5SEP2poM8fcK",
       "symbol": "SOL/USDC[aquafarm]",
-      "name": "Orca SOL/USDC Aquafarm LP Token",
+      "name": "Orca SOL/USDC Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FFdjrSvNALfdgxANNpt3x85WpeVMdQSH5SEP2poM8fcK/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9810,9 +9810,9 @@
       "chainId": 101,
       "address": "71vZ7Jvu8fTyFzpX399dmoSovoz24rVbipLrRn2wBNzW",
       "symbol": "SOL/USDT[aquafarm]",
-      "name": "Orca SOL/USDT Aquafarm LP Token",
+      "name": "Orca SOL/USDT Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/71vZ7Jvu8fTyFzpX399dmoSovoz24rVbipLrRn2wBNzW/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9828,9 +9828,9 @@
       "chainId": 101,
       "address": "D659zwnbeTgquChbaWC3KDHrkYoqMuz1doGLHTFaqTtD",
       "symbol": "SRM/SOL[aquafarm]",
-      "name": "Orca SRM/SOL Aquafarm LP Token",
+      "name": "Orca SRM/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D659zwnbeTgquChbaWC3KDHrkYoqMuz1doGLHTFaqTtD/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9846,9 +9846,9 @@
       "chainId": 101,
       "address": "GwrBA1F8rGummDCDd8NY9Eu1cLNuJqbT8WaGxgWpFwGL",
       "symbol": "STEP/SOL[aquafarm]",
-      "name": "Orca STEP/SOL Aquafarm LP Token",
+      "name": "Orca STEP/SOL Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GwrBA1F8rGummDCDd8NY9Eu1cLNuJqbT8WaGxgWpFwGL/logo.svg",
       "tags": [
         "lp-token"
       ],
@@ -9864,9 +9864,9 @@
       "chainId": 101,
       "address": "GjpXgKwn4VW4J2pZdS3dovM58hiXWLJtopTfqG83zY2f",
       "symbol": "USDC/USDT[stable][aquafarm]",
-      "name": "Orca USDC/USDT[stable] Aquafarm LP Token",
+      "name": "Orca USDC/USDT[stable] Aquafarm Token",
       "decimals": 6,
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GjpXgKwn4VW4J2pZdS3dovM58hiXWLJtopTfqG83zY2f/logo.svg",
       "tags": [
         "lp-token"
       ],
