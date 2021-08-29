@@ -2,7 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-### 0.2.215 (2021-08-12)
+### 0.2.223 (2021-08-27)
+
+### 0.2.222 (2021-08-26)
+
+### 0.2.221 (2021-08-26)
+
+### 0.2.220 (2021-08-26)
+
+### 0.2.219 (2021-08-23)
+
+### 0.2.218 (2021-08-23)
+
+### 0.2.217 (2021-08-23)
+
+### 0.2.216 (2021-08-20)
+
+### 0.2.215 (2021-08-18)
 
 ### 0.2.214 (2021-08-12)
 
@@ -24,10 +40,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.205 (2021-07-26)
 
-
 ### Bug Fixes
 
-* spelling ([2dcc3c9](https://github.com/solana-labs/token-list/commit/2dcc3c94feca5924fdc1aa9f131a698e0433625f))
+- spelling ([2dcc3c9](https://github.com/solana-labs/token-list/commit/2dcc3c94feca5924fdc1aa9f131a698e0433625f))
 
 ### 0.2.204 (2021-07-21)
 
@@ -41,10 +56,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.199 (2021-07-16)
 
-
 ### Features
 
-* update cope logo ([6614d5e](https://github.com/solana-labs/token-list/commit/6614d5ea6b5a6b636819dbe831e6894f691e708b))
+- update cope logo ([6614d5e](https://github.com/solana-labs/token-list/commit/6614d5ea6b5a6b636819dbe831e6894f691e708b))
 
 ### 0.2.198 (2021-07-16)
 
@@ -122,10 +136,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.161 (2021-07-02)
 
-
 ### Bug Fixes
 
-* resolve to not be async when it is not needed ([#419](https://github.com/solana-labs/token-list/issues/419)) ([b13bb3f](https://github.com/solana-labs/token-list/commit/b13bb3faae979f18a9b763c5a02a1b61559a137e))
+- resolve to not be async when it is not needed ([#419](https://github.com/solana-labs/token-list/issues/419)) ([b13bb3f](https://github.com/solana-labs/token-list/commit/b13bb3faae979f18a9b763c5a02a1b61559a137e))
 
 ### 0.2.160 (2021-07-01)
 
@@ -135,10 +148,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.157 (2021-06-28)
 
-
 ### Bug Fixes
 
-* ren ([a81ec35](https://github.com/solana-labs/token-list/commit/a81ec35a35474392f90a4f01dd8de28360f46d10))
+- ren ([a81ec35](https://github.com/solana-labs/token-list/commit/a81ec35a35474392f90a4f01dd8de28360f46d10))
 
 ### 0.2.156 (2021-06-28)
 
@@ -150,10 +162,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.152 (2021-06-24)
 
-
 ### Features
 
-* add tokens ([f20b31a](https://github.com/solana-labs/token-list/commit/f20b31a56604f3bf7a9bac97c67388bbea57e1b0))
+- add tokens ([f20b31a](https://github.com/solana-labs/token-list/commit/f20b31a56604f3bf7a9bac97c67388bbea57e1b0))
 
 ### 0.2.151 (2021-06-23)
 
@@ -195,19 +206,17 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.132 (2021-06-14)
 
-
 ### Features
 
-* add check for duplicates ([#361](https://github.com/solana-labs/token-list/issues/361)) ([b9a5fa6](https://github.com/solana-labs/token-list/commit/b9a5fa650f2c6e4ec3f32f67bd017d48a467e47b))
+- add check for duplicates ([#361](https://github.com/solana-labs/token-list/issues/361)) ([b9a5fa6](https://github.com/solana-labs/token-list/commit/b9a5fa650f2c6e4ec3f32f67bd017d48a467e47b))
 
 ### 0.2.131 (2021-06-13)
 
 ### 0.2.130 (2021-06-11)
 
-
 ### Features
 
-* added ccai token to the list ([#358](https://github.com/solana-labs/token-list/issues/358)) ([f1ffb05](https://github.com/solana-labs/token-list/commit/f1ffb05165e2c2af84b6c8d709cae9e884ef41a3))
+- added ccai token to the list ([#358](https://github.com/solana-labs/token-list/issues/358)) ([f1ffb05](https://github.com/solana-labs/token-list/commit/f1ffb05165e2c2af84b6c8d709cae9e884ef41a3))
 
 ### 0.2.129 (2021-06-11)
 
@@ -251,10 +260,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.109 (2021-05-22)
 
-
 ### Features
 
-* add sdt ([#203](https://github.com/solana-labs/token-list/issues/203)) ([b3b0362](https://github.com/solana-labs/token-list/commit/b3b03622a4d835d013b6a36376588352d66d058f))
+- add sdt ([#203](https://github.com/solana-labs/token-list/issues/203)) ([b3b0362](https://github.com/solana-labs/token-list/commit/b3b03622a4d835d013b6a36376588352d66d058f))
 
 ### 0.2.108 (2021-05-22)
 
@@ -264,10 +272,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.105 (2021-05-20)
 
-
 ### Features
 
-* add cope ([#193](https://github.com/solana-labs/token-list/issues/193)) ([2b71ace](https://github.com/solana-labs/token-list/commit/2b71ace746eb04998393ca05fc6074551cdb1c82))
+- add cope ([#193](https://github.com/solana-labs/token-list/issues/193)) ([2b71ace](https://github.com/solana-labs/token-list/commit/2b71ace746eb04998393ca05fc6074551cdb1c82))
 
 ### 0.2.104 (2021-05-20)
 
@@ -286,7 +293,6 @@ All notable changes to this project will be documented in this file. See [standa
 ### 0.2.97 (2021-05-17)
 
 ### 0.2.96 (2021-05-17)
-
 
 ### Bug Fixes
 
@@ -324,10 +330,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.79 (2021-05-10)
 
-
 ### Features
 
-* add pr test ([#128](https://github.com/solana-labs/token-list/issues/128)) ([8bda197](https://github.com/solana-labs/token-list/commit/8bda197c8abf81af18d78702b56d0c424efcc149))
+- add pr test ([#128](https://github.com/solana-labs/token-list/issues/128)) ([8bda197](https://github.com/solana-labs/token-list/commit/8bda197c8abf81af18d78702b56d0c424efcc149))
 
 ### 0.2.78 (2021-05-10)
 
@@ -337,10 +342,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.75 (2021-05-07)
 
-
 ### Bug Fixes
 
-* FTT logo ([d61b288](https://github.com/solana-labs/token-list/commit/d61b288f2f1026c55862406acfcca3d4810775d1))
+- FTT logo ([d61b288](https://github.com/solana-labs/token-list/commit/d61b288f2f1026c55862406acfcca3d4810775d1))
 
 ### 0.2.74 (2021-05-07)
 
@@ -358,10 +362,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.67 (2021-04-29)
 
-
 ### Features
 
-* add usd(x) serum markets to extensions ([#72](https://github.com/solana-labs/token-list/issues/72)) ([d33d687](https://github.com/solana-labs/token-list/commit/d33d687fe7378279daf1fb4e8944050c9438a781))
+- add usd(x) serum markets to extensions ([#72](https://github.com/solana-labs/token-list/issues/72)) ([d33d687](https://github.com/solana-labs/token-list/commit/d33d687fe7378279daf1fb4e8944050c9438a781))
 
 ### 0.2.66 (2021-04-29)
 
@@ -383,10 +386,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.57 (2021-04-18)
 
-
 ### Bug Fixes
 
-* missing comma ([7f90d84](https://github.com/solana-labs/token-list/commit/7f90d843ee23310fb4698229c9e3b63f72a82380))
+- missing comma ([7f90d84](https://github.com/solana-labs/token-list/commit/7f90d843ee23310fb4698229c9e3b63f72a82380))
 
 ### 0.2.56 (2021-04-14)
 
@@ -400,98 +402,85 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.51 (2021-04-03)
 
-
 ### Features
 
-* update COPE logo ([1924e6f](https://github.com/solana-labs/token-list/commit/1924e6f101878a4d0b047dd01bd2a23ad57c2f68))
+- update COPE logo ([1924e6f](https://github.com/solana-labs/token-list/commit/1924e6f101878a4d0b047dd01bd2a23ad57c2f68))
 
 ### 0.2.50 (2021-04-01)
 
-
 ### Bug Fixes
 
-* build ([2f8be81](https://github.com/solana-labs/token-list/commit/2f8be81fe10bc25780addc0b85c4a93b6743ef7c))
+- build ([2f8be81](https://github.com/solana-labs/token-list/commit/2f8be81fe10bc25780addc0b85c4a93b6743ef7c))
 
 ### 0.2.49 (2021-04-01)
 
-
 ### Features
 
-* caps ([92f4aa8](https://github.com/solana-labs/token-list/commit/92f4aa87211145944233e6aed2debb5a8108f636))
+- caps ([92f4aa8](https://github.com/solana-labs/token-list/commit/92f4aa87211145944233e6aed2debb5a8108f636))
 
 ### 0.2.48 (2021-03-30)
 
-
 ### Features
 
-* add ray-cope ([7dc9754](https://github.com/solana-labs/token-list/commit/7dc97542ab0ca746eac33105929eef3ff170972e))
+- add ray-cope ([7dc9754](https://github.com/solana-labs/token-list/commit/7dc97542ab0ca746eac33105929eef3ff170972e))
 
 ### 0.2.47 (2021-03-30)
 
-
 ### Features
 
-* format ([c0a047d](https://github.com/solana-labs/token-list/commit/c0a047d55b79746f6bc70e6bd5aa45b782972c04))
+- format ([c0a047d](https://github.com/solana-labs/token-list/commit/c0a047d55b79746f6bc70e6bd5aa45b782972c04))
 
 ### 0.2.46 (2021-03-25)
 
-
 ### Features
 
-* update test mint ([2c96b90](https://github.com/solana-labs/token-list/commit/2c96b906bc5550b138dab092d5f5d535b5ec2421))
+- update test mint ([2c96b90](https://github.com/solana-labs/token-list/commit/2c96b906bc5550b138dab092d5f5d535b5ec2421))
 
 ### 0.2.45 (2021-03-25)
 
-
 ### Bug Fixes
 
-* typo ([1b6ffb7](https://github.com/solana-labs/token-list/commit/1b6ffb761bf38399914b204a33aa4223df153864))
+- typo ([1b6ffb7](https://github.com/solana-labs/token-list/commit/1b6ffb761bf38399914b204a33aa4223df153864))
 
 ### 0.2.44 (2021-03-25)
 
-
 ### Features
 
-* update test mint ([a513878](https://github.com/solana-labs/token-list/commit/a5138787f345bead30d82c78c3b6434f95474e44))
+- update test mint ([a513878](https://github.com/solana-labs/token-list/commit/a5138787f345bead30d82c78c3b6434f95474e44))
 
 ### 0.2.43 (2021-03-25)
 
 ### 0.2.42 (2021-03-22)
 
-
 ### Features
 
-* add ray lp tokens ([efe4edc](https://github.com/solana-labs/token-list/commit/efe4edc9166b1fbc8da113775c91c2d5ea4f14ea))
+- add ray lp tokens ([efe4edc](https://github.com/solana-labs/token-list/commit/efe4edc9166b1fbc8da113775c91c2d5ea4f14ea))
 
 ### 0.2.41 (2021-03-22)
 
-
 ### Features
 
-* update test mint ([4002d1e](https://github.com/solana-labs/token-list/commit/4002d1e5f8ba675954c7170c44375b190926c0cf))
+- update test mint ([4002d1e](https://github.com/solana-labs/token-list/commit/4002d1e5f8ba675954c7170c44375b190926c0cf))
 
 ### 0.2.40 (2021-03-21)
 
-
 ### Features
 
-* add devnet tokens ([df7e9e0](https://github.com/solana-labs/token-list/commit/df7e9e074621433aca9fc6011fb48b7610476741))
+- add devnet tokens ([df7e9e0](https://github.com/solana-labs/token-list/commit/df7e9e074621433aca9fc6011fb48b7610476741))
 
 ### 0.2.39 (2021-03-19)
 
-
 ### Features
 
-* rename wrapped USDT to wUSDT ([b5f4956](https://github.com/solana-labs/token-list/commit/b5f4956e5b7b35eef7129414924d9ce33abaf0e7))
+- rename wrapped USDT to wUSDT ([b5f4956](https://github.com/solana-labs/token-list/commit/b5f4956e5b7b35eef7129414924d9ce33abaf0e7))
 
 ### 0.2.38 (2021-03-18)
 
 ### 0.2.37 (2021-03-18)
 
-
 ### Bug Fixes
 
-* point to master for trustwallet assets ([#35](https://github.com/solana-labs/token-list/issues/35)) ([09686e9](https://github.com/solana-labs/token-list/commit/09686e9a582071390d4243d995cf03a0708721af))
+- point to master for trustwallet assets ([#35](https://github.com/solana-labs/token-list/issues/35)) ([09686e9](https://github.com/solana-labs/token-list/commit/09686e9a582071390d4243d995cf03a0708721af))
 
 ### 0.2.36 (2021-03-18)
 
@@ -513,10 +502,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### 0.2.27 (2021-03-16)
 
-
 ### Bug Fixes
 
-* remove scope ([fffc18b](https://github.com/solana-labs/token-list/commit/fffc18b8f5fd40d3d2eaa2f8d4cf8151a972e774))
+- remove scope ([fffc18b](https://github.com/solana-labs/token-list/commit/fffc18b8f5fd40d3d2eaa2f8d4cf8151a972e774))
 
 ### 0.2.26 (2021-03-16)
 
