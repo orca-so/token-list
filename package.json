@@ -4,6 +4,7 @@
   "description": "Solana Token Registry",
   "main": "dist/main/index.js",
   "typings": "dist/main/index.d.ts",
+  test
   "module": "dist/module/index.js",
   "repository": "https://github.com/solana-labs/token-list",
   "license": "Apache",
