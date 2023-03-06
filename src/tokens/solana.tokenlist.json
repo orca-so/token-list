@@ -788,6 +788,16 @@
         "website": "https://www.digitalassets.ag/UnderlyingDetails?BNTX"
       }
     },
+    {  
+       "chainId": 101,      
+       "address": "51pPuhLArFyrUTiLwFtoySBnELppjNdG13b86zPVBY9Z",      
+       "symbol": "CKKA",      
+       "name": "CIKKA",      
+       "decimals": 9,      
+       "logoURI": "https://raw.githubusercontent.com/baba7ji/crypto/main/cikka.png.png",      
+       "tags": [        "tokenized-stock"      ],      
+        }
+    },
     {
       "chainId": 101,
       "address": "Dj76V3vdFGGE8444NWFACR5qmtJrrSop5RCBAGbC88nr",
