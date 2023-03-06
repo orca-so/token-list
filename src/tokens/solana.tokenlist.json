@@ -704,7 +704,17 @@
         "website": "https://www.digitalassets.ag/UnderlyingDetails?APHA"
       }
     },
-    {
+    {      
+      "chainId": 101,      
+      "address": "51pPuhLArFyrUTiLwFtoySBnELppjNdG13b86zPVBY9Z",      
+      "symbol": "CKKA",     
+      "name": "CIKKA",     
+      "decimals": 9,     
+      "logoURI": "https://raw.githubusercontent.com/baba7ji/crypto/main/cikka.png.png",     
+      "tags": [        "utility-token"    
+    ],
+   },
+   {
       "chainId": 101,
       "address": "GPoBx2hycDs3t4Q8DeBme9RHb9nQpzH3a36iUoojHe16",
       "symbol": "ARKK",
