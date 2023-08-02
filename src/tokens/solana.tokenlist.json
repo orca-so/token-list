@@ -18532,11 +18532,26 @@
       "tags": [],
       "extensions": {
       }
-    }
+    },
+    {
+      "chainId": 101,
+      "address": "51pPuhLArFyrUTiLwFtoySBnELppjNdG13b86zPVBY9Z",
+      "symbol": "CKKA",
+      "name": "CIKKA",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/baba7ji/crypto/main/cikka.png.png",
+      "tags": [],
+      "extensions": {
+        "website": "https://cikka.vercel.app/",
+        "twitter": "https://twitter.com/cikka_sol",
+        "telegram": "https://t.me/Cikka_sol",
+      }
+    } 
   ],
   "version": {
     "major": 0,
     "minor": 3,
     "patch": 2
   }
-}
+  
+},
