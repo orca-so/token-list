@@ -3,5 +3,10 @@
   "symbol": "FUL",
   "decimals": 9,
   "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiehconwntr427cvyx4poxgogu773btyr7qkyeab76df4d52ucu2o4",
-  "tags": ["community", "utility"]
+  "tags": ["community", "utility"],
+  "website": "https://fruchtlabor.netlify.app",
+  "description": "Fruchtlabor (FUL) is an AI-powered utility token on Solana. Designed for real-time autonomous treasury governance and dynamic supply adjustment, FUL blends algorithmic precision with community-driven innovation.",
+  "extensions": {
+    "tags": ["AI", "Solana"]
+  }
 }
