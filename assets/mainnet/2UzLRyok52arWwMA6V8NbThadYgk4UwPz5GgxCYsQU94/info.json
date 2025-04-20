@@ -1,8 +1,11 @@
 {
+  "chainId": 101,
+  "address": "2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94",
   "name": "Fruchtlabor",
   "symbol": "FUL",
   "decimals": 9,
-  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiehconwntr427cvyx4poxgogu773btyr7qkyeab76df4d52ucu2o4",
+  "logoURI": "https://raw.githubusercontent.com/GERMANKBR/token-list/main/assets/mainnet/2UzLRyok52arWwMA6V8NbThadYgk4UwPz5GgxCYsQU94/logo.png",
   "website": "https://fruchtlabor.netlify.app",
-  "tags": ["community", "utility"]
+  "tags": ["community", "utility", "meme"],
+  "description": "Fruchtlabor utility & meme token on Solana"
 }
