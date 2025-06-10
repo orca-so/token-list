@@ -1,0 +1,45 @@
+{
+  "name": "REXON",
+  "symbol": "REXON",
+  "description": "REXON is a Solana meme coin for BTC price linkage and BTC airdrop mining purposes.",
+  "image": "https://olive-adjacent-tuna-26.mypinata.cloud/ipfs/bafybeid5bkixqdprpnwngdttdrnfiokm3pxgg4blbc6sm5c2rkenfzzqlu",
+  "external_url": "", 
+  "properties": {
+    "files": [
+      {
+        "uri": "https://olive-adjacent-tuna-26.mypinata.cloud/ipfs/bafybeid5bkixqdprpnwngdttdrnfiokm3pxgg4blbc6sm5c2rkenfzzqlu",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image"
+  },
+  "attributes": [
+    {
+      "trait_type": "Purpose",
+      "value": "Meme Coin"
+    },
+    {
+      "trait_type": "Feature",
+      "value": "BTC Price Linkage"
+    },
+    {
+      "trait_type": "Utility",
+      "value": "BTC Airdrop Mining"
+    },
+    {
+      "trait_type": "Blockchain",
+      "value": "Solana"
+    },
+    {
+      "trait_type": "Twitter",
+      "value": "https://x.com/RexonKing"
+    }
+  ],
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "2VFfZYs4jdP9GdeWtUseEm4S2BiVsv2c4mKGqRXyctx7",
+      "share": 100
+    }
+  ]
+}
