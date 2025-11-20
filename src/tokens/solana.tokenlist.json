@@ -18548,6 +18548,23 @@
         "website": "https://fruchtlabor.netlify.app",
         "twitter": "https://twitter.com/fruchtlaborcryp"
       }
+    },
+    {
+      "chainId": 101,
+      "address": "DrvKdn1BPeM8gHDvR1zBFb7MYkQFic3gfa6GcjXQh3K9",
+      "symbol": "XWDC",
+      "name": "XWallet Digital Coin",
+      "decimals": 6,
+      "logoURI": "https://xwdc.online/XWDC2-512.png",
+      "tags": [
+        "meme",
+        "community"
+      ],
+      "extensions": {
+        "website": "https://xwdc.online",
+        "twitter": "https://x.com/XWDC133",
+        "telegram": "https://t.me/xwdc_tokenbot"
+      }
     }
   ],
   "version": {
