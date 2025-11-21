@@ -18572,4 +18572,19 @@
     "minor": 3,
     "patch": 2
   }
-}
+  },
+    {
+      "chainId": 101,
+      "address": "senoQZP6jTqv3cQqmitHbc8iPNFUECUaVjyo6m6Whxh",
+      "symbol": "SEN",
+      "name": "SENSOR TOKEN",
+      "decimals": 9,
+      "logoURI": "https://github.com/rufuskaka/sensortoken/blob/main/logo.png?raw=true",
+      "tags": [
+        "utility-token",
+    ],
+      "extensions": {
+        "website": "https://sensortoken.wordpress.com",
+        "website": "https://www.sensortoken.tech"
+      }
+    },
