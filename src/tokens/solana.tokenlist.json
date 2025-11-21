@@ -18572,4 +18572,24 @@
     "minor": 3,
     "patch": 2
   }
-}
+},
+{
+    "chainId": 101,
+    "address": "3mp1MN5v7zdGXTvvcC9zUMoszMrh9pNdaCDkAQKc7Fec",
+    "symbol": "SPEND",
+    "name": "SolSpend",
+    "decimals": 5,
+    "logoURI": "https://bafkreic4r56jg7fvkthkfzmmfy2z6ypfltqgowjvs44ghf32nh2nz77tva.ipfs.nftstorage.link/",
+    "tags": [
+      "Utility",
+      "Offramp",
+      "GiftCard",
+      "Revshare"
+    ],
+    "extensions": {
+      "website": "https://www.solspend.io",
+      "twitter": "https://twitter.com/SolSpend",
+      "telegram": "https://t.me/SolSpend_Portal"
+    }
+  }
+
