@@ -69,13 +69,13 @@
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/D6yPmaM6SueQN4mteEQMiVFMbk6BSAShJAhuqyzVJ3fq/logo.png",
       "tags": [
-          "utility-token",
-          "payment-token"
-       ],
-     "extensions": {
-     "website": "https://yarncoin.io",
-    "twitter": "https://twitter.com/yarncoin"
-  }
+        "utility-token",
+        "payment-token"
+      ],
+      "extensions": {
+        "website": "https://yarncoin.io",
+        "twitter": "https://twitter.com/yarncoin"
+      }
     },
     {
       "chainId": 101,
@@ -91,7 +91,6 @@
       "extensions": {
         "website": "https://solfina.io/",
         "twitter": "https://twitter.com/solfina_io"
-        
       }
     },
     {
@@ -128,20 +127,20 @@
         "twitter": "https://twitter.com/SolexFinance"
       }
     },
-	{
-     "chainId": 101,
-     "address": "HppJbUYU4a9i3dXo1x1SS5ieaKEz4cAPWMg4eNQzabzg",
-     "symbol": "BLOCKING",
-     "name": "Blocking",
-     "decimals": 8,
-     "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HppJbUYU4a9i3dXo1x1SS5ieaKEz4cAPWMg4eNQzabzg/logo.png",
-     "tags": [
-       "NFT",
-       "Blocking"
-    ],
-     "extensions": {
-     "website": "http://blocking.adchunha.com/"
-     }
+    {
+      "chainId": 101,
+      "address": "HppJbUYU4a9i3dXo1x1SS5ieaKEz4cAPWMg4eNQzabzg",
+      "symbol": "BLOCKING",
+      "name": "Blocking",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HppJbUYU4a9i3dXo1x1SS5ieaKEz4cAPWMg4eNQzabzg/logo.png",
+      "tags": [
+        "NFT",
+        "Blocking"
+      ],
+      "extensions": {
+        "website": "http://blocking.adchunha.com/"
+      }
     },
     {
       "chainId": 101,
@@ -160,23 +159,21 @@
         "twitter": "https://"
       }
     },
-    
     {
-     "chainId": 101,
-     "address": "5F3beSzHFv1m3T2Sqp7dNQPYrZeetLZ8JYe6QPW6cqKA",
-     "symbol": "ZEUS",
-     "name": "ZEUS",
-     "decimals": 8,
-     "logoURI": "https://previews.123rf.com/images/arbuzu/arbuzu1501/arbuzu150100014/35131140-letter-z-logo-icon-design-template-elements.jpg",
-     "tags": [
-       "NFT",
-       "ZEUS"
-    ],
-     "extensions": {
-     "website": "http://test.com/"
-     }
+      "chainId": 101,
+      "address": "5F3beSzHFv1m3T2Sqp7dNQPYrZeetLZ8JYe6QPW6cqKA",
+      "symbol": "ZEUS",
+      "name": "ZEUS",
+      "decimals": 8,
+      "logoURI": "https://previews.123rf.com/images/arbuzu/arbuzu1501/arbuzu150100014/35131140-letter-z-logo-icon-design-template-elements.jpg",
+      "tags": [
+        "NFT",
+        "ZEUS"
+      ],
+      "extensions": {
+        "website": "http://test.com/"
+      }
     },
-
     {
       "chainId": 101,
       "address": "C8QMoDwQADoW4MVkDZx7HgnebeugnNXWztrqpcCT2mFj",
@@ -353,22 +350,22 @@
       "decimals": 9,
       "logoURI": "https://raw.githubusercontent.com/CoinVs/brand-assets/master/logo/logo.png",
       "tags": [
-          "coinversus",
-          "cvs",
-          "entertainment",
-          "gaming",
-          "NFT",
-          "utility-token"
+        "coinversus",
+        "cvs",
+        "entertainment",
+        "gaming",
+        "NFT",
+        "utility-token"
       ],
       "extensions": {
-          "website": "https://coinversus.com/",
-          "twitter": "https://twitter.com/CoinVersus",
-          "telegram": "https://t.me/coinvs",
-          "discord": "https://discord.gg/F84VmCtByV",
-          "github": "https://github.com/CoinVs",
-          "reddit": "https://www.reddit.com/r/coinversus/",
-          "facebook": "https://www.facebook.com/coinversusofficial",
-          "instagram": "https://www.instagram.com/coinversus/"
+        "website": "https://coinversus.com/",
+        "twitter": "https://twitter.com/CoinVersus",
+        "telegram": "https://t.me/coinvs",
+        "discord": "https://discord.gg/F84VmCtByV",
+        "github": "https://github.com/CoinVs",
+        "reddit": "https://www.reddit.com/r/coinversus/",
+        "facebook": "https://www.facebook.com/coinversusofficial",
+        "instagram": "https://www.instagram.com/coinversus/"
       }
     },
     {
@@ -16488,7 +16485,6 @@
       "symbol": "ODC",
       "name": "OneDay Coin",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/assets/GzN5Y1KoP6Yo6KYVYg7JfJ7Urs6oCrtLByHLeZ1ELAnx/logo.png",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/GzN5Y1KoP6Yo6KYVYg7JfJ7Urs6oCrtLByHLeZ1ELAnx/logo.png",
       "tags": [],
       "extensions": {
@@ -17721,7 +17717,6 @@
       "symbol": "ROFL",
       "name": "ROFLSTOMP TOKEN",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/assets/mainnet/4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo/teamROFLtwitter.png",
       "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/4xAPLtoJn7J7ALhLh7jz4unZRRDjCogNbnkJ2xhkYedo/teamROFLtwitter.png",
       "tags": [
         "team-token",
@@ -17820,7 +17815,6 @@
       "symbol": "PNT",
       "name": "PHANT",
       "decimals": 9,
-      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AKxR1NLTtPnsVcWwPSEGat1TC9da3Z2vX7sY4G7ZLj1r/logo.png",
       "logoURI": "https://user-images.githubusercontent.com/92027847/136703420-7f327114-7295-4e94-b38d-77eb5cf76927.png",
       "tags": [
         "utility-token"
@@ -18226,7 +18220,7 @@
         "website": "https://edithtoken.com/"
       }
     },
-	{
+    {
       "chainId": 101,
       "address": "94112Trifp3c5rycChpjDuwouSby7Yu7g8bbYsK4PV5Y",
       "symbol": "NVS",
@@ -18236,9 +18230,9 @@
       "tags": [],
       "extensions": {
         "website": "https://novisium.com",
-		"twitter": "https://twitter.com/novisium_",
-		"telegram": "https://t.me/novisiumofficial",
-		"instagram": "https://www.instagram.com/novisium_"
+        "twitter": "https://twitter.com/novisium_",
+        "telegram": "https://t.me/novisiumofficial",
+        "instagram": "https://www.instagram.com/novisium_"
       }
     },
     {
@@ -18282,7 +18276,7 @@
         "discord": "https://discord.gg/zjtV3EjwUf",
         "twitter": "https://twitter.com/fishynftmob"
       }
-    },    
+    },
     {
       "chainId": 101,
       "address": "BDy7QrC6JR987ZszfKCjTGwSSAcGEd9mRcDC2TSqNDkF",
@@ -18530,8 +18524,7 @@
       "decimals": 6,
       "logoURI": "https://cdn.jsdelivr.net/gh/brunofaczz/alter-logo/logo.png",
       "tags": [],
-      "extensions": {
-      }
+      "extensions": {}
     },
     {
       "chainId": 101,
@@ -18564,6 +18557,22 @@
         "website": "https://xwdc.online",
         "twitter": "https://x.com/XWDC133",
         "telegram": "https://t.me/xwdc_tokenbot"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "3LrFonpZtYueZKRqx5Z6LHWhzmdtvvb6BvbWAbk1EAQ3",
+      "symbol": "UVRSE",
+      "name": "UVRSE",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/orca-so/token-list/main/assets/mainnet/3LrFonpZtYueZKRqx5Z6LHWhzmdtvvb6BvbWAbk1EAQ3.png",
+      "tags": [
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://universetoken.io",
+        "twitter": "https://x.com/UVRSE_TOKEN",
+        "description": "UVRSE is the native Solana SPL token powering Universe Labs' private AI wallet and rewards ecosystem."
       }
     }
   ],
